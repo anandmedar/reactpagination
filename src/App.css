@@ -1,0 +1,31 @@
+.text {
+  margin: 25px 0px 0px 50px;
+}
+
+.list {
+  margin: 15px 28px 15px 15px;
+}
+
+.item {
+  border: 1px solid black;
+  list-style: none;
+  padding: 10px;
+  overflow-x: hidden;
+}
+
+.pagination {
+  margin: 4% 3% 0% 3%;
+}
+
+.page-item {
+  list-style: none;
+  display: flex;
+  float: left;
+}
+
+.page-link {
+  padding: 10px;
+  text-decoration: none;
+  border: 1px solid black;
+  color: blue;
+}
